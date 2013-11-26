@@ -460,6 +460,7 @@
 				D811EEA7184445D7002C028F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D811EEA8184445D7002C028F /* Build configuration list for PBXNativeTarget "RepoTestTwoTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +469,7 @@
 				D811EEAA184445D7002C028F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
